@@ -1,0 +1,2 @@
+javac -classpath .:Other/stdlib.jar MyProgram.java
+java  -classpath .:Other/stdlib.jar MyProgram
